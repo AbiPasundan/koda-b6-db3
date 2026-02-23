@@ -25,3 +25,10 @@ join movies on movies.id = movies_directors.movie_id
 group by directors.id, directors.first_name
 order by jumlah_movies desc
 limit 1;
+
+-- task 4
+select year, count(year) as "jumlah film"
+from movies
+group by year
+order by "jumlah film" desc
+limit 1;
