@@ -21,9 +21,12 @@
 ## query 2
 
 * melakukan join director dan genres ke table movies, limit keluarannya sebanyak 50
+
 ![query-2-task-1](images/query-2-task-1.png)
 
 * melakukan join movies dan roles berdasarkan table actors
+
+![query-2-task-2](images/query-2-task-2.png)
 
 ## query 3
 
