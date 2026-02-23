@@ -17,3 +17,11 @@ having count(roles.actor_id) > 5
 order by "total roles" desc
 limit 10;
 
+-- task 3
+select directors.id as directors_id, directors.first_name, count(movies.id) as jumlah_movies
+from directors
+join movies_directors on movies_directors.director_id = directors.id
+join movies on movies.id = movies_directors.movie_id
+group by directors.id, directors.first_name
+order by jumlah_movies desc
+limit 1;

@@ -40,6 +40,8 @@
 
 * Mendapatkan director paling producttive sepanjang masa
 
+![query-3-task-3](images/query-3-task-3.png)
+
 * Mendapatkan tahun tersibuk sepanjang masa
 
 * Mendapatkan movies dengan genres yang dibuatkan menjadi 1 column (value dipisah dengan koma) dengan menggunakan string_agg
