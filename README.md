@@ -6,6 +6,8 @@
 
 * Task 2: mencari aktor dengan akhiran nama 's'
 
+![Screenshot 2 ](task-2.png)
+
 * Task 3: mencari movie dengan rating diantara 5 dan 7 dan tahun rilis 2004 sampai 2006
 
 * menghitung jumlah movie dengan rating 6
