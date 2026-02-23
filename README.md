@@ -1,5 +1,7 @@
 # Postgresql Minitask
 
+## query 1
+
 * Task 1: mencari movie dengan tahun rilis lebih dari tahun 2000
 
 ![Screenshot 1 ](task-1.png)
@@ -15,3 +17,22 @@
 * menghitung jumlah movie dengan rating 6
 
 ![Screenshot 4 ](task-4.png)
+
+## query 2
+
+* melakukan join director dan genres ke table movies, limit keluarannya sebanyak 50
+![query-2-task-1](images/query-2-task-1.png)
+
+* melakukan join movies dan roles berdasarkan table actors
+
+## query 3
+
+* Mendapatkan director, beraoa genre yang di-direct
+
+* Mendapatkan actor yang memiliki roles lebih dari lima
+
+* Mendapatkan director paling producttive sepanjang masa
+
+* Mendapatkan tahun tersibuk sepanjang masa
+
+* Mendapatkan movies dengan genres yang dibuatkan menjadi 1 column (value dipisah dengan koma) dengan menggunakan string_agg
