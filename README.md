@@ -10,6 +10,8 @@
 
 * Task 3: mencari movie dengan rating diantara 5 dan 7 dan tahun rilis 2004 sampai 2006
 
+![Screenshot 43](task-3.png)
+
 * menghitung jumlah movie dengan rating 6
 
 ![Screenshot 4 ](task-4.png)
