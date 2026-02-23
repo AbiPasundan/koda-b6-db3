@@ -30,9 +30,11 @@
 
 ## query 3
 
-* Mendapatkan director, beraoa genre yang di-direct
+* Mendapatkan director, berapa genre yang di-direct
 
 * Mendapatkan actor yang memiliki roles lebih dari lima
+
+![query-3-task-2](images/query-3-task-2.png)
 
 * Mendapatkan director paling producttive sepanjang masa
 
