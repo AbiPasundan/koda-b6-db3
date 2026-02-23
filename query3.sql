@@ -1,3 +1,10 @@
+-- task 1
+
+select directors.first_name, directors.last_name, string_agg(directors_genres.genre, ',' order by directors_genres.genre asc) as "genre"
+from directors
+join directors_genres on directors_genres.genre = genre
+group by id
+limit 10;
 
 
 

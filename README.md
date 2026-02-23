@@ -32,6 +32,8 @@
 
 * Mendapatkan director, berapa genre yang di-direct
 
+![query-3-task-1](images/query-3-task-1.png)
+
 * Mendapatkan actor yang memiliki roles lebih dari lima
 
 ![query-3-task-2](images/query-3-task-2.png)
