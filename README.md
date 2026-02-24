@@ -47,3 +47,5 @@
 ![query-3-task-4](images/query-3-task-4.png)
 
 * Mendapatkan movies dengan genres yang dibuatkan menjadi 1 column (value dipisah dengan koma) dengan menggunakan string_agg
+
+![query-3-task-5](images/query-3-task-5.png)

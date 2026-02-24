@@ -32,3 +32,11 @@ from movies
 group by year
 order by "jumlah film" desc
 limit 1;
+
+-- task 5
+
+select id, name, string_agg(genre, ',') as genres
+from movies
+join movies_genres on movies_genres.movie_id = movie_id
+group by movies.id, movies.name
+limit 10;
